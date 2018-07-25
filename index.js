@@ -5,7 +5,8 @@ function getUKTime() {
 
 function 
 myFunctionWithArguments(myArgument) {
-  let myArgument 
+  let myArgument = myArgument *.20
+  
 }
  
 
