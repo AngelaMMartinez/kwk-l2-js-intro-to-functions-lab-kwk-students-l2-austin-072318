@@ -1,4 +1,8 @@
 // Write your code in this file!
-getUkTime() 
+getUKTime() {
+  new Date().gethours()+5
+}
+
+getUKTime()
 
 
