@@ -8,6 +8,10 @@ function discountTicket(x) {
   let ticket= x - discount
   return ticket
 }
+
+function tweetReply(name) {
+  
+}
  
 
 
