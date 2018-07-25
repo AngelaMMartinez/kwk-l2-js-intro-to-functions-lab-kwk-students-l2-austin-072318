@@ -10,7 +10,7 @@ function discountTicket(x) {
 }
 
 function tweetReply(name) {
-  let tweet="Hey" + name " , "
+  let tweet="Hey" + name " ,  thanks so much for the support! I really appreciate it!"
 }
  
 
