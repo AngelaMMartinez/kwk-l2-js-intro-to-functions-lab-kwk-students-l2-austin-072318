@@ -4,10 +4,10 @@ function getUKTime() {
 }
 
 function 
-myFunctionWithArguments(myArgument) {
-  let discountTicket= myArgument *.20
-  discountTicket= myArgument - discount
-  return discountTicket
+myFunctionWithArguments(x) {
+  let discount= x *.20
+  let ticket= x - discount
+  return ticket
 }
  
 
